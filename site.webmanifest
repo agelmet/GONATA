@@ -3,8 +3,8 @@
  "short_name": "Ψυχολόγος Νέ",
  "start_url": "./",
  "display": "standalone",
- "background_color": "#F8F2ED",
- "theme_color": "#F8F2ED",
+ "background_color": "#FBF8F4",
+ "theme_color": "#FBF8F4",
  "icons": [
   {
    "src": "assets/icons/icon-192.png",
